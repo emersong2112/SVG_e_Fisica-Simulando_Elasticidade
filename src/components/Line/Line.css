@@ -1,0 +1,6 @@
+svg path{
+    fill: none;
+    stroke: var(--alt1);
+    stroke-width: 6px;
+    filter: blur(2px) drop-shadow(0px 0px 0px var(--alt1)) contrast(3.5) brightness(3.5);
+}
