@@ -1,5 +1,5 @@
 # Trabalhando SVG + Fórmulas de física
 
-Nesse projeto, eu quis explorar a versatilidade do SVG ao utilizar fórmulas de física em CSS e simular a movimentação elástica com fidelidade física.
+Neste projeto, o objetivo foi explorar a flexibilidade do SVG para aplicar fórmulas de física em CSS e simular com precisão a movimentação elástica de uma linha sendo esticada. 
 
-Projeto utiliza REACT, SVG e Sass.
+O projeto foi desenvolvido com as tecnologias REACT, SVG e Sass.
